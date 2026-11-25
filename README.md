@@ -35,4 +35,4 @@ Each check-in is then **Accepted**, sent to **HR review**, or **Rejected**. HR u
 
 ## Source code
 
-This project is developed with an industry partner, Pensees Systems Pte Ltd. As advised by my supervisor, the source code is confidential and is kept in a separate private repository. It is not included in this submission.
+This project is developed with an industry partner, Pensees Systems Pte Ltd. As advised by my supervisor, the source code is confidential. It is not included in this submission.
